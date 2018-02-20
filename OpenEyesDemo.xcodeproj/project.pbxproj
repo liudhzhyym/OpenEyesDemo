@@ -987,7 +987,7 @@
 				TargetAttributes = {
 					E11231DC1DE817330030FF70 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = YNJLN87BST;
+						DevelopmentTeam = R86L33N66D;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -1303,12 +1303,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = YNJLN87BST;
+				DEVELOPMENT_TEAM = R86L33N66D;
 				ENABLE_STRICT_OBJC_MSGSEND = NO;
 				INFOPLIST_FILE = OpenEyesDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Hy.OpenEyesDemod;
+				PRODUCT_BUNDLE_IDENTIFIER = mars.OpenEyesDemod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1323,12 +1323,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = YNJLN87BST;
+				DEVELOPMENT_TEAM = R86L33N66D;
 				ENABLE_STRICT_OBJC_MSGSEND = NO;
 				INFOPLIST_FILE = OpenEyesDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Hy.OpenEyesDemod;
+				PRODUCT_BUNDLE_IDENTIFIER = mars.OpenEyesDemod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
